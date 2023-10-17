@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+#logo {
+    width: 20%;
+    height: 20%;
+}
+
+h1 {
+    font-family: "Times New Roman";
+}
+
+i{
+    padding: 10px;
+}

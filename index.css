@@ -18,29 +18,26 @@ body {
     align-items: center;
     text-align: center;
 }
-#main{
+
+#main {
     text-align: center;
 }
+
 #logo {
     margin: auto;
-
     max-width: 80%;
 }
 
-.icon-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+#icons {
+    margin: 0px 30px 0px 30px;
 }
 
-.icon {
-    margin: 10px;
-}
-i{
+i {
     margin: auto;
-    padding: 40px;
+    /*padding: 30px;*/
     display: flex;
     justify-content: center;
-    color: black;
+    color: rgb(30, 48, 80);
 }
+
 

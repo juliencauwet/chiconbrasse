@@ -1,4 +1,4 @@
-
+/*
 #logo {
     margin: auto;
     width: 100%;
@@ -9,6 +9,33 @@ h1 {
     font-family: "Times New Roman";
 }
 
+
+*/
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+#main{
+    text-align: center;
+}
+#logo {
+    margin: auto;
+
+    max-width: 80%;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    margin: 10px;
+}
 i{
     margin: auto;
     padding: 40px;
@@ -16,6 +43,4 @@ i{
     justify-content: center;
     color: black;
 }
-#main{
-    padding: 10%;
-}
+
